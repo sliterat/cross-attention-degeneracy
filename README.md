@@ -140,9 +140,11 @@ Pipeline\_Output/
 ## Citation
 
 ```
-Pruś T. Bidirectional cross-attention does not perform cross-modal interaction:  
-architectural degeneracy and variance decomposition in histopathology–clinical  
-data fusion. \[year\]. DOI: \[to be completed\]
+Software:
+
+    Pruś T. Bidirectional cross-attention does not perform cross-modal interaction:
+    architectural degeneracy and variance decomposition in histopathology–clinical
+    data fusion. 2026. https://doi.org/10.5281/zenodo.22129327
 ```
 
 ## Contact
