@@ -12,6 +12,11 @@ authors:
     affiliation: Independent Researcher
     city: Łódź
     country: PL
+doi: 10.5281/zenodo.22129327
+version: 1.0.0
+date-released: '2026-08-27'
+repository-code: 'https://github.com/sliterat/cross-attention-degeneracy'
+url: 'https://github.com/sliterat/cross-attention-degeneracy'
 license: MIT
 keywords:
   - multimodal fusion
@@ -27,3 +32,4 @@ abstract: >-
   weakly correlated modalities, and that at cohort sizes typical of digital
   pathology, weight-initialisation variance exceeds architectural differences
   by a factor of five.
+
