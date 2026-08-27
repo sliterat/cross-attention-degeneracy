@@ -1,0 +1,29 @@
+cff-version: 1.2.0
+title: >-
+  Bidirectional cross-attention does not perform cross-modal interaction:
+  architectural degeneracy and variance decomposition in histopathology-clinical
+  data fusion
+message: If you use this software, please cite it as below.
+type: software
+authors:
+  - given-names: Tomasz
+    family-names: Pruś
+    email: prus.tomasz.1972@gmail.com
+    affiliation: Independent Researcher
+    city: Łódź
+    country: PL
+license: MIT
+keywords:
+  - multimodal fusion
+  - cross-attention
+  - computational pathology
+  - reproducibility
+  - variance decomposition
+  - TCGA-BRCA
+abstract: >-
+  Code accompanying a study showing that one direction of bidirectional
+  cross-attention between whole-slide images and a clinical feature vector is
+  mathematically degenerate, that late fusion outperforms early fusion on
+  weakly correlated modalities, and that at cohort sizes typical of digital
+  pathology, weight-initialisation variance exceeds architectural differences
+  by a factor of five.
