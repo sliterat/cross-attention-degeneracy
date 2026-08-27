@@ -130,9 +130,11 @@ Pipeline\\\_Output/
 ## Cytowanie
 
 ```
+Software:
+
 Pruś T. Dwukierunkowa uwaga skrośna nie realizuje interakcji międzymodalnej:    
 analiza degeneracji architektonicznej i dekompozycja wariancji w fuzji obrazu    
-histopatologicznego z danymi klinicznymi. \\\[rok\\\]. DOI: \\\[uzupełnić\\\]
+histopatologicznego z danymi klinicznymi. 2026. https://doi.org/10.5281/zenodo.22129327
 ```
 
 ## Kontakt
