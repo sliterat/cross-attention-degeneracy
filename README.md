@@ -4,6 +4,11 @@ Source code for the manuscript *"Bidirectional cross-attention does not perform*
 
 Author: Tomasz Pruś (independent researcher) Code licence: MIT · Manuscript and figures: CC BY 4.0
 
+## Manuscript
+
+The English manuscript is publicly available in the `manuscript/` directory in PDF and DOCX formats.
+
+The manuscript is licensed under **CC BY 4.0**. The source code in this repository is licensed under the **MIT License**.
 
 ## What this work shows
 
